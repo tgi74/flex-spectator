@@ -1,0 +1,3 @@
+[submodule "flex-spectator-api"]
+	path = flex-spectator-api
+	url = https://github.com/tgi74/flex-spectator-api
